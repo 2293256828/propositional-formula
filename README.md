@@ -1,6 +1,6 @@
 # propositional-formula
 输入命题公式,输出其二叉树表示、真值表、合/析取范式、主合/析取范式及公式类型<br>
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2293256828)](https://github.com/anuraghazra/github-readme-stats)
 流程如下:<br>
 
 根据输入的文件名从文件读入逻辑表达式<br>
